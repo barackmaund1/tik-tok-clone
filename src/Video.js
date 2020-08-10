@@ -23,7 +23,7 @@ const Video = () => {
            loop
            onClick={onVideoPress}
            ref={videoRef}
-           src='https://v16m.tiktokcdn.com/f0e7fb725b52dea9d9e44317ae19aa24/5f2e8279/video/tos/useast2a/tos-useast2a-ve-0068c001/e4efd10ff448444db94a61ec1fd14af2/?a=1233&br=4400&bt=2200&cr=0&cs=0&dr=0&ds=3&er=&l=202008061046170101902180715D007815&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=M2dkaTdzbTtqdjMzOjczM0ApNTllaGhoOjs4N2lnZzQ8OGdiampjcW1uYjRfLS0tMTZzczY1YC02YzIyMWFgYS9jLjY6Yw%3D%3D&vl=&vr='></video> 
+           src='https://v16m.tiktokcdn.com/18a37eb09f967de8547b218247d943c9/5f330202/video/tos/useast2a/tos-useast2a-ve-0068c002/0d0bf826cb45499a9ed2d42103941f03/?a=1233&br=2344&bt=1172&cr=0&cs=0&dr=0&ds=3&er=&l=2020080920392901018907414857428916&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=amh2aHFkeDpvdTMzNjczM0ApMzxkZmg2OGVmN2g4ZWU5OGdrNl9pZGBnXy1fLS1eMTZzczQwNTIvLTNeNDMtNDViMzU6Yw%3D%3D&vl=&vr='></video> 
            {/*<VideoFooter/>*/}
            <VideoFooter/>
             {/*<VideoSidebar/>*/}
